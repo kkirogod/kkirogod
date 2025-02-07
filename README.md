@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Miguel Quiroga
+# Hi there! 👋 I'm Miguel
 
 ## 📌 About Me  
 I'm a **Computer Science student** at **University of Huelva**, passionate about **Machine Learning** and **Data Science**. I enjoy tackling complex problems and developing **data-driven solutions** using machine learning models.  
