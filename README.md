@@ -66,4 +66,5 @@ I'm currently looking for opportunities to apply my skills in **innovative proje
 ## 📫 Contact  
 
 📧 **Email:** [miguelquirogacampos@gmail.com](mailto:miguelquirogacampos@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/miguel-quiroga-campos](https://www.linkedin.com/in/miguel-quiroga-campos)  
+💼 **LinkedIn:** [linkedin.com/in/miguel-quiroga-campos](https://www.linkedin.com/in/miguel-quiroga-campos)
+🔗 **Kaggle:** [kaggle.com/miguelquiroga](https://www.kaggle.com/miguelquiroga)
