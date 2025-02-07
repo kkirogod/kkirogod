@@ -12,7 +12,7 @@ I'm currently looking for opportunities to apply my skills in **innovative proje
 ## 🚀 Skills  
 
 - 📊 **Data Science**
-- 🤖 **Machine Learning** (Scikit-learn)  
+- 🤖 **Machine Learning**
 - 🧠 **AI Algorithms**
 - 👁‍🗨 **Computer Vision**
 - 🗣 **Languages:** Spanish (Native), English (B2), French (Basic)
