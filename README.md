@@ -5,7 +5,7 @@ I'm a **Computer Science student** at **University of Huelva**, passionate about
 
 I consider myself a **curious, persistent, and disciplined** individual, always seeking new challenges and opportunities to learn and contribute.  
 
-I'm currently looking for opportunities to apply my skills in **innovative projects**. If you have an idea where I can contribute, I'd love to connect! 🚀  
+I'm currently looking for opportunities to apply my skills in **innovative projects**. If you have an idea where I can contribute, I'd love to talk! 🚀  
 
 ---
 
