@@ -56,21 +56,13 @@ I'm currently looking for opportunities to apply my skills in **innovative proje
 
 - 📜 **CCNA: Introduction to Networks**  
 - 🐍 **Python Programming**  
-- 📖 **B2 First - Score 168**  
+- 💂 **B2 First - Score 168**  
 
 ---
 
 ## 🏆 Achievements  
 
 - 🎖 **Academic Excellence Recognition**  
-
----
-
-## 📂 Projects  
-
-Check out some of my projects:  
-
-🔗 [GitHub Projects](https://github.com/kkirogod)  
 
 ---
 
