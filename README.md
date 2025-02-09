@@ -30,6 +30,7 @@ I'm currently looking for opportunities to apply my skills in **innovative proje
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-%230079C1.svg?style=for-the-badge&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%230075C0.svg?style=for-the-badge&logo=database&logoColor=white"/>
 </p>
 
 ### **Machine Learning & Data Science:**  
