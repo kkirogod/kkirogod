@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Miguel
 
 ## 📌 About Me  
-I'm a **Computer Science student** at **University of Huelva**, passionate about **Machine Learning** and **Data Science**. I enjoy tackling complex problems and developing **data-driven solutions** using machine learning models.  
+I'm a **Computer Scientist**, passionate about **Machine Learning** and **Data Science**. I enjoy tackling complex problems and developing **data-driven solutions** using machine learning models.  
 
 I consider myself a **curious, persistent, and disciplined** individual, always seeking new challenges and opportunities to learn and contribute.  
 
@@ -13,6 +13,7 @@ I'm currently looking for opportunities to apply my skills in **innovative proje
 
 - 📊 **Data Science**
 - 🤖 **Machine Learning**
+- 🌌 **Deep Learning**
 - 🧠 **AI Algorithms**
 - 👁‍🗨 **Computer Vision**
 - 🗣 **Languages:** Spanish (Native), English (B2), French (Basic)
