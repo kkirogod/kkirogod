@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Miguel
 
 ## 📌 About Me  
-I'm a **Computer Scientist**, passionate about **Machine Learning** and **Data Science**. I enjoy tackling complex problems and developing **data-driven solutions** using machine learning models.  
+I'm a **Computer Science Engineer and Data Scientist**, passionate about **Machine Learning** and **Data**. I enjoy tackling complex problems and developing **data-driven solutions** using machine learning models.  
 
 I consider myself a **curious, persistent, and disciplined** individual, always seeking new challenges and opportunities to learn and contribute.  
 
