@@ -71,8 +71,6 @@ I am currently open to new opportunities as a Data Scientist or AI/ML Engineer.
 - 📧 **Email:** [miguelquirogacampos@gmail.com](mailto:miguelquirogacampos@gmail.com)
 - 🏆 **Kaggle:** [kaggle.com/miguelquiroga](https://kaggle.com/miguelquiroga)
 
-```html
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkirogod&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
-```
